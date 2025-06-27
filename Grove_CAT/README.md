@@ -1,49 +1,40 @@
-# [Under Review] Title of Your Paper
+# Papers
 
-## Overview
+## 📌 [Under Review] Grove: A Novel Ensemble-Based Computerized Adaptive Testing Model Using Boosting Tree Subsets
+
+### Overview
 
 This repository contains the code and supplementary materials for our manuscript:
 
-> **"Title of Your Paper"**  
-> Authors: [Your Name], [Coauthor Names]  
+> **"Grove"**  
+> Authors: [Yeonwoo Shin], [Taehun Lee], [Chanho Park]  
 > Submitted and currently under review.
+
+> Abstract: The Grove model introduces a novel adaptive testing algorithm that decomposes boosting models into individual trees to create subgroups for item selection. By leveraging the additive structure of boosting models, Grove enables alternate-form test formulation and personalized assessment while mitigating item exposure concerns. Initial studies using cognitive, psychological, and qualification exam datasets demonstrated that several specific configurations of Grove, when provided with enough items, markedly outperform traditional decision tree-based CAT models. The model successfully replicates core adaptive testing features while enhancing efficiency and security. Future research should focus on hyperparameter optimization and validating the model across diverse test types and data volumes.
+>
+> ![image](https://github.com/user-attachments/assets/4376c68c-f0cf-4892-88f3-74f27188ea1f)
+
 
 ---
 
-## ⚠️ Notice
+### ⚠️ Notice
 
 This manuscript is **currently under peer review**.  
 Please **do not cite, redistribute, or use for derivative works** without explicit permission from the authors.
 
 If you have any questions regarding the method or code, please contact:
-- [your.email@domain.com]
+- [sinjinyoung987@gmail.com]
 - or open an issue in this repository for clarifications.
 
 ---
 
+
 ## 📂 Repository Structure
 
 - `/src` – Main source code
-- `/data` – (If applicable, or link to dataset)
+- `/data` – dataset
 - `/notebooks` – Experiment notebooks
 - `/figures` – Figures used in the manuscript
 - `requirements.txt` – Dependencies
 
 ---
-
-## 🚀 Running the Code
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
-
-# (Optional) Create virtual environment
-python -m venv venv
-source venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run experiments
-python main.py
