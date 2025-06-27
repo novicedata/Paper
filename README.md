@@ -1,6 +1,8 @@
 # Papers
 
-## 📌 [Under Review] Grove: A Novel Ensemble-Based Computerized Adaptive Testing Model Using Boosting Tree Subsets
+## 📌 [Under Review] Grove: A Novel Ensemble-Based Computerized Adaptive Testing Model Using Boosting Tree Subsets([Path](https://github.com/novicedata/Paper/tree/main/Grove_CAT))
+
+
 
 ### Overview
 
@@ -27,7 +29,3 @@ If you have any questions regarding the method or code, please contact:
 - or open an issue in this repository for clarifications.
 
 ---
-
-## 📂 Detail
-
-* 
