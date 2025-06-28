@@ -7,7 +7,8 @@
 This repository contains the code and supplementary materials for our manuscript:
 
 > **"Grove"**  
-> Authors: [Yeonwoo Shin], [Taehun Lee], [Chanho Park]  
+> Authors: [Yeonwoo Shin](https://orcid.org/0009-0008-6517-5078), [Taehun Lee](https://orcid.org/0000-0001-8261-701X), [Chanho Park](https://orcid.org/0000-0002-3920-2481)
+
 > Submitted and currently under review.
 
 > Abstract: The Grove model introduces a novel adaptive testing algorithm that decomposes boosting models into individual trees to create subgroups for item selection. By leveraging the additive structure of boosting models, Grove enables alternate-form test formulation and personalized assessment while mitigating item exposure concerns. Initial studies using cognitive, psychological, and qualification exam datasets demonstrated that several specific configurations of Grove, when provided with enough items, markedly outperform traditional decision tree-based CAT models. The model successfully replicates core adaptive testing features while enhancing efficiency and security. Future research should focus on hyperparameter optimization and validating the model across diverse test types and data volumes.
@@ -28,6 +29,19 @@ If you have any questions regarding the method or code, please contact:
 
 ---
 
+### More Overview
+
+* [`In Korean`]()
+* [`In English`]()
+
+---
+
+### Acknowledgments
+
+* This research was supported by the Chung-Ang University Graduate Research Scholarship in 2023. This research was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (Grant No. 2022R1F1A1064562).
+* For the empirical study, three real test datasets were used, each obtained from the Open-Source Psychometrics Project and the Harvard Dataverse. These datasets are publicly accessible online 
+
+---
 
 ## 📂 Repository Structure
 
