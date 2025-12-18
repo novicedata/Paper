@@ -18,13 +18,6 @@ This repository contains the code and supplementary materials for our manuscript
 
 ---
 
-### More Overview
-
-- [`In Korean`]()
-- [`In English`]()
-
----
-
 ### Acknowledgments
 
 
