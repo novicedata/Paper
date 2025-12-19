@@ -28,7 +28,6 @@ This repository contains the code and supplementary materials for our manuscript
 
 ### 📂 Repository Structure
 
-- `/data`: 데이터셋
 - `/notebooks`: 연구 코드
-- `figures`: 논문용 figure
-- 본 연구는 [`코랩`](https://colab.research.google.com/?hl=ko) 환경(2025.11.09 기준 사용가능)에서 시행되었음.
+- Data set: [KOSSDA](https://kossda.snu.ac.kr/handle/20.500.12236/31174)
+- 본 연구는 [`코랩`](https://colab.research.google.com/?hl=ko) 환경(2025.12.10 기준 사용가능)에서 시행되었음.
