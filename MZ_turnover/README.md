@@ -26,6 +26,13 @@ This repository contains the code and supplementary materials for our manuscript
 
 ---
 
+### Overview
+
+
+- [`자세히보기`](https://github.com/novicedata/Paper/tree/main/MZ_turnover/Overview.md)
+
+---
+
 ### 📂 Repository Structure
 
 - `/notebooks`: 연구 코드
