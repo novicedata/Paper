@@ -1,7 +1,7 @@
 # Papers
 
 
-## 📌 [[KCI]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kcisereArticleSearchBean.artiId=ART003258968) MZ세대 공무원의 이직의도 분석: RuleFit 기반 설명가능 인공지능(XAI)를 중심으로([Path](https://github.com/novicedata/Paper/tree/main/MZ_turnover))
+## 📌 [[KCI]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003258968) MZ세대 공무원의 이직의도 분석: RuleFit 기반 설명가능 인공지능(XAI)를 중심으로([Path](https://github.com/novicedata/Paper/tree/main/MZ_turnover))
 
 
 
