@@ -16,11 +16,10 @@
 
 ### 📌 Overview
 
-This study proposes the **Grove algorithm** to address the limitations of boosting-based Computerized Adaptive Testing (CAT) by leveraging individual trees within boosting models. While CAT traditionally relies on Item Response Theory (IRT), IRT-based approaches often assume **unidimensionality and local independence**, which are frequently violated in real-world data, limiting their applicability. Decision Tree-based CAT has been explored as an alternative, but it faces challenges such as **overfitting, item exposure issues, and limited adaptability**.
-
-Boosting models provide high predictive accuracy but are constructed using numerous shallow trees, making **interpretability and visualization challenging for CAT applications**. This study introduces Grove, which **decomposes boosting models into subsets of deeper trees**, enhancing interpretability, item exposure control, and adaptability in CAT.
-
-The research involves training a CatBoost model, decomposing it into individual trees, and **constructing Grove configurations using tree subsets** to validate applicability across various CAT scenarios. Grove enables the construction of **multiple test forms with equivalent reliability while mitigating overfitting and distributing item exposure, thereby improving efficiency and security in CAT**.
+- Conventional CAT primarily relies on IRT, which requires strong assumptions and limits real-world applicability.
+- Tree-based CAT addresses some issues but suffers from overfitting and item exposure problems.
+- Boosting models achieve high predictive accuracy but lack interpretability and direct compatibility with CAT.
+- This study proposes the Grove algorithm, which decomposes boosting models into structured subsets of trees.
 
 - **Key Activities**
   
