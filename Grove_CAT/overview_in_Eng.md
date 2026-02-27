@@ -23,13 +23,13 @@
 
 - **Key Activities**
   
-  - Understanding the internal structure of boosting algorithms (Gradient Boosting, CatBoost) and the fundamental mechanism of CAT.
-  - Developing the Grove algorithm by decomposing boosting models into tree subsets suitable for CAT.
-  - Implementing Grove using CatBoost: model training → tree decomposition → Grove construction → CAT simulation.
-  - Empirical validation:
-    - Verifying Grove's CAT mechanics using cognitive assessment data (VIQ).
-    - Comparing Grove with DT-based CAT and CatBoost using psychological (TMAS) and medical licensing (KMLE) datasets.
-    - Visualization and analysis, including Grove path visualization, ROC-AUC and accuracy comparison, item exposure and individualized path simulations, and overfitting analysis.
+  - **Designed and implemented the Grove algorithm** by decomposing a trained CatBoost boosting model into individual trees and reconstructing structured tree subsets for CAT application.
+
+  - **Validated Grove on real-world datasets** (VIQ, TMAS, KMLE) and compared its performance against Decision Tree-based CAT and standard CatBoost models.
+
+  - **Conducted quantitative evaluation and structural analysis**, including ROC-AUC, accuracy, overfitting comparison, item exposure distribution, and adaptive path visualization.
+
+  
 - **Key Learnings**
   
   - In-depth understanding of ML (especially boosting) algorithm structures and their implementation.
